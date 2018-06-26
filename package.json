@@ -1,0 +1,26 @@
+{
+  "name": "json_dump",
+  "version": "0.10.1",
+  "description": "output json in script tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p2world/json_dump.git"
+  },
+  "keywords": [
+    "json",
+    "script",
+    "tag",
+    "output"
+  ],
+  "author": "p2world",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p2world/json_dump/issues"
+  },
+  "homepage": "https://github.com/p2world/json_dump#readme",
+  "dependencies": {}
+}
