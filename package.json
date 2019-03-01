@@ -1,6 +1,6 @@
 {
   "name": "json_dump",
-  "version": "0.10.1",
+  "version": "1.0.0",
   "description": "output json in script tag",
   "main": "index.js",
   "scripts": {
